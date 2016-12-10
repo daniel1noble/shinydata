@@ -13,3 +13,5 @@ http://ipub.com/shiny-crud-app/
 https://daattali.com/shiny/persistent-data-storage/
 
 http://shiny.rstudio.com/gallery/file-upload.html 
+
+https://shiny.rstudio.com/articles/persistent-data-storage.html#sqlite
